@@ -1,0 +1,13 @@
+def greet(name="stenger"):
+    print("happy birthday,"+ name)
+
+def sum(num1,num2):
+    return num1+num2
+   # mahe=input("enter name")
+
+   #print(great(mahe))
+pan=input("enter the name")
+greet(pan)
+
+print(sum(23,24))
+
